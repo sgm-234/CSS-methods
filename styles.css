@@ -1,0 +1,29 @@
+h1,
+h2{
+    font-weight:800;
+}
+
+button.confirm{
+    background-color:green;
+    color:white;
+    font-weight:700;
+}
+
+button.cancel{
+    background-color: white;
+    color: black;
+    font-weight: 400;
+
+}
+
+#divv{
+    font-weight:300;
+}
+
+#divv.small{
+    font-weight:300;
+}
+
+#divv.smaller{
+    font-weight: 800;
+}
